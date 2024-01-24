@@ -51,3 +51,4 @@ reboot
 
 TODO: - Про настройку отображения значка системы Альт в OpenCore bootloader-e
 TODO: - Наглядные материалы
+TODO: - Описать что такое OpenCore Legacy Patcher
